@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages of BruSLeAttack
+## Welcome to GitHub Pages of Bella
 
 Reproduce our results: [GitHub](https://github.com/afsharshamsi/Bella/Bella.github.io)
 
