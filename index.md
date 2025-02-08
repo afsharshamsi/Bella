@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages of BruSLeAttack
 
-Reproduce our results: [GitHub](https://github.com/BruSLiAttack/BruSLiAttack.github.io)
+Reproduce our results: [GitHub](https://github.com/afsharshamsi/Bella/Bella.github.io)
 
 Check out our paper: [BruSLeAttack: A Query-Efficient Score-Based Black-Box Sparse Adversarial Attack](https://openreview.net/forum?id=PAfnMGXief)
 
